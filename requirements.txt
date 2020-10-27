@@ -1,6 +1,6 @@
 apiclient==1.0.3
 cffi==1.7.0
-cryptography==1.4
+cryptography==3.2
 decorators==0.1
 endpoints==1.1.16
 enum34==1.1.6
