@@ -21,4 +21,4 @@ simplejson==3.8.2
 six==1.10.0
 sparkpost==1.2.0
 uritemplate==0.6
-urllib3==1.16
+urllib3==1.26.5
